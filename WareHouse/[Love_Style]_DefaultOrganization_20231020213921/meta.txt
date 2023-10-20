@@ -1,0 +1,30 @@
+Task:
+[create_a_couples_counseling_app_that_gives_instant_help_with_daily_challenges, problems_and_fights_based_on_each_partners_attachment_style.both_partners_selects_their_own_attachment_style_on_the_app_and_as_a_problem_comes_up_between_the_partners_the_app_guides_them_how_to_solve_the_issue_based_on_how_each_attachment_style_correlate_and_needs]
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+application
+
+Ideas:
+
+
+Language:
+ Python
+
+Code_Version:
+4.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+
